@@ -81,4 +81,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTH
 
 ## 🙏 Credits
 
-Created with pride by ZSH [Expert GPT](https://chatgpt.com/g/g-XczdbjXSW-zsh-expert) and GPT-4o, supervised by the legendary [obeone](https://github.com/obeone)
+Created with pride by ZSH [Expert GPT](https://chatgpt.com/g/g-XczdbjXSW-zsh-expert) and GPT-4o, supervised by  [obeone](https://github.com/obeone)
